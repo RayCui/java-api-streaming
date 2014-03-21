@@ -20,7 +20,7 @@ On Ubuntu, you can run `sudo apt-get install maven`.
     
 To create and execute the jar file, run
 
-    maven package
+    mvn package
     java -jar target/streaming-example-java-1.jar
 
 ### Sample Output
